@@ -682,7 +682,7 @@ int main(int argc, char** argv)
     CloseHandle(pi1.hThread); CloseHandle(pi1.hProcess);
     CloseHandle(pi2.hThread); CloseHandle(pi2.hProcess);
 
-    wprintf(L"[*] Successfully bypassed.\n");
+    wprintf(L"[*] Successfully bypassed ez.\n");
     system("pause");
     return 0;
 }
