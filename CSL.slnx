@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CSL/CSL.vcxproj" Id="6e3047eb-6a4d-4dec-b742-0f6b4526f6fc" />
+</Solution>
